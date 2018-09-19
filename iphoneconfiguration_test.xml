@@ -1782,7 +1782,48 @@
 			<strings>
 				<string localeId="ru">Âû íå ìîæåòå ïðîñìîòðåòü äàííóþ îïåðàöèþ ÷åðåç ìîáèëüíîå ïðèëîæåíèå. Äëÿ ïðîñìîòðà âîñïîëüçóéòåñü Web âåðñèåé Ñáåðáàíê Îíëàéí.</string>
 			</strings>
-		</param>	   
+		</param>
+		<param name="extendedPermission" description="">
+   			<type>list</type>
+   			<nodes>
+				<node id="ift-node1.testonline.sberbank.ru">
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+      			<node id="ift-node2.testonline.sberbank.ru">
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+				<node id="ift-node1-mp.testonline.sberbank.ru">
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+      			<node id="ift-node2-mp.testonline.sberbank.ru">
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+      			<node id="mobile.sberbank.ru">
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+      			<node id="10.21.152.7">
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>              
+      			<node id="greenfield1.online.sberbank.ru">
+        			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+      			<node id="greenfield2.online.sberbank.ru">
+        			<extendedPermissionEnabled>true</extendedPermissionEnabled>
+      			</node>
+      			<node id="node0.online.sberbank.ru">
+         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+      			</node>
+      			<node id="node1.online.sberbank.ru">
+         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+      			</node>
+      			<node id="node2.online.sberbank.ru">
+         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+      			</node>
+      			<node id="node3.online.sberbank.ru">
+         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+      			</node>
+   			</nodes>
+		</param>  
 		<param name="SelfRegistrationCSAmApi" description="Âêëþ÷åíèå mAPI íà ýòàïå ñàìîðåãèñòðàöèè â ìîáèëüíîì ïðèëîæåíèè">
 			<type>setting</type>
 			<enabled>true</enabled>
