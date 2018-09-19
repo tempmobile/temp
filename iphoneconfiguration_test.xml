@@ -1811,16 +1811,16 @@
         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
       			</node>
       			<node id="node0.online.sberbank.ru">
-         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
       			</node>
       			<node id="node1.online.sberbank.ru">
-         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
       			</node>
       			<node id="node2.online.sberbank.ru">
-         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
       			</node>
       			<node id="node3.online.sberbank.ru">
-         			<extendedPermissionEnabled>false</extendedPermissionEnabled>
+         			<extendedPermissionEnabled>true</extendedPermissionEnabled>
       			</node>
    			</nodes>
 		</param>  
