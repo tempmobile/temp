@@ -2352,7 +2352,7 @@
                   	<orderingSectionEnabled>false</orderingSectionEnabled>
                   	<arrestInfoService>true</arrestInfoService>
                     <FastLoginApp>false</FastLoginApp>
-                	<PrintAutoSubscriptionCheck>false</PrintAutoSubscriptionCheck>
+                	<PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
                     <productNavigationBarMod>3</productNavigationBarMod>
                   	<IsFromAddrBook>true</IsFromAddrBook>
                   	<InstantApp>true</InstantApp>
@@ -2482,7 +2482,7 @@
                   	<orderingSectionEnabled>false</orderingSectionEnabled>
                   	<arrestInfoService>true</arrestInfoService>
                     <FastLoginApp>false</FastLoginApp>
-                	<PrintAutoSubscriptionCheck>false</PrintAutoSubscriptionCheck>
+                	<PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
                     <productNavigationBarMod>3</productNavigationBarMod>
                   	<IsFromAddrBook>true</IsFromAddrBook>
                   	<InstantApp>true</InstantApp>
