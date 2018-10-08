@@ -1798,7 +1798,7 @@
                   	<hidingSectionEnabled>true</hidingSectionEnabled>
                   	<orderingSectionEnabled>false</orderingSectionEnabled>
                 	<FastLoginApp>false</FastLoginApp>
-                	<PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
+                	<PrintAutoSubscriptionCheck>false</PrintAutoSubscriptionCheck>
                     <productNavigationBarMod>3</productNavigationBarMod>
                   	<IsFromAddrBook>true</IsFromAddrBook>
                   	<InstantApp>true</InstantApp>
@@ -1868,7 +1868,7 @@
                   	<hidingSectionEnabled>true</hidingSectionEnabled>
                   	<orderingSectionEnabled>false</orderingSectionEnabled>
         			<FastLoginApp>false</FastLoginApp>
-                	<PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
+                	<PrintAutoSubscriptionCheck>false</PrintAutoSubscriptionCheck>
                     <productNavigationBarMod>3</productNavigationBarMod>
                   	<IsFromAddrBook>true</IsFromAddrBook>
                   	<InstantApp>true</InstantApp>
@@ -1938,7 +1938,7 @@
                   	<hidingSectionEnabled>true</hidingSectionEnabled>
                   	<orderingSectionEnabled>false</orderingSectionEnabled>
                     <FastLoginApp>false</FastLoginApp>
-                	<PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
+                	<PrintAutoSubscriptionCheck>false</PrintAutoSubscriptionCheck>
                     <productNavigationBarMod>3</productNavigationBarMod>
                   	<IsFromAddrBook>true</IsFromAddrBook>
                   	<InstantApp>true</InstantApp>
@@ -2008,7 +2008,7 @@
                   	<hidingSectionEnabled>true</hidingSectionEnabled>
                   	<orderingSectionEnabled>false</orderingSectionEnabled>
                     <FastLoginApp>false</FastLoginApp>
-                	<PrintAutoSubscriptionCheck>true</PrintAutoSubscriptionCheck>
+                	<PrintAutoSubscriptionCheck>false</PrintAutoSubscriptionCheck>
                     <productNavigationBarMod>3</productNavigationBarMod>
                   	<IsFromAddrBook>true</IsFromAddrBook>
                   	<InstantApp>true</InstantApp>
